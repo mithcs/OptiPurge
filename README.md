@@ -10,7 +10,7 @@ In short, **a tool to make your PC faster** - or atleast tries to.
 
 ## Installation
 
-Just download the binary from release.
+Download the binary from [release](https://github.com/mithcs/OptiPurge/releases/tag/2.0) or just [click me](https://github.com/mithcs/OptiPurge/releases/download/2.0/OptiPurge.exe).
 
 ## Usage
 
@@ -30,7 +30,7 @@ I developed 1st edition of this project to make my machine faster(_did I say squ
 
 ### Source Code:
 
-I lost the source code of this project a long time ago. But, I did found some bits that I used as base for this project. You can check them out in `op-src` directory. As I use Linux these days, I do not plan to re-write this. So this project is discontinued. However, if someone wants to re-write this project for any reason, they are welcome to do that.
+I lost the source code of this project a long time ago. But, I did found some bits that I used as base for this project. You can check them out in [src-bits](https://github.com/mithcs/OptiPurge/tree/master/src-bits) directory. As I use Linux these days, I do not plan to re-write this. So this project is discontinued. However, if someone wants to re-write this project for any reason, they are welcome to do that.
 
 ### Binary:
 
